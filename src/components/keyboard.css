@@ -1,0 +1,23 @@
+.keyboard{
+  margin-top: 10vh;
+}
+
+.row-keyboard {
+  margin: 5px;
+  justify-content: center;
+  display: flex;
+}
+
+.btn-keyboard {
+  height: 50px;
+  width: 40px;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.btn-keyboard-lg {
+  height: 50px;
+  width: 80px;
+  justify-content: center;
+  text-transform: uppercase;
+}

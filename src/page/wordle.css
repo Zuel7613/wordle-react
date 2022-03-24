@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+}
+
+.correct {
+  background-color: green;
+}
+
+.present {
+  background-color: yellow;
+}
+
+.absent {
+  background-color: grey;
+}
